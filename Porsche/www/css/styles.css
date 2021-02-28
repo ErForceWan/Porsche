@@ -10119,11 +10119,18 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/Porsche_logo.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  /* background-image: url("../assets/img/Porsche_logo.jpg"); */
+  animation: fondu 15s ease-in-out infinite both;
+}
+@keyframes fondu{
+    0%{background-image: url("https://timedm.com/wp-content/media/2018/11/Porsche-911-Type-992-Carrera-4S-2018-rear-view-1736x978.jpg");}
+    33.33%{background-image: url("http://files.porsche.com/filestore/video/multimedia/en/po-416-r4-detail-safety-lighting-concept/zoom/bb0c92e6-407d-11e3-bd76-001a64c55f5c/porsche-image.jpg");}
+    66.67%{background-image: url("https://i.ytimg.com/vi/tfmbB09fEWw/maxresdefault.jpg");}
+    100%{background-image: url("https://i.pinimg.com/originals/0d/58/82/0d58829100c03b4550019d17af8bacbd.jpg");}
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
