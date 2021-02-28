@@ -10119,11 +10119,18 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/Porsche_logo.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  /* background-image: url("../assets/img/Porsche_logo.jpg"); */
+  animation: fondu 15s ease-in-out infinite both;
+}
+@keyframes fondu{
+    0%{background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/diapo1.png");}
+    33.33%{background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/diapo2.png");}
+    66.67%{background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/diapo3.png");}
+    100%{background-image: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/diapo1.png");}
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
