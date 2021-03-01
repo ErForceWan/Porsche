@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_porsche_round.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi/ic_porsche_round.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_porsche_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi/ic_porsche_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_porsche.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-anydpi-v26/ic_porsche.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_porsche.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_porsche.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_porsche_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_porsche_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable_logo.jpg.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable/logo.jpg"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_porsche_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi/ic_porsche_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_porsche_round.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi/ic_porsche_round.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v26_ic_launcher.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v26_ic_launcher.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable_ic_porsche_background.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable/ic_porsche_background.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_porsche_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_porsche_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v26_ic_launcher.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_porsche_round.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_porsche_round.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v26_ic_launcher_background.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_porsche_round.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_porsche_round.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_porsche_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi/ic_porsche_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v26_ic_launcher_background.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_porsche.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_porsche.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_porsche.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi/ic_porsche.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v26_ic_launcher.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_porsche.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi/ic_porsche.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v26_ic_launcher.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v26_ic_launcher_background.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_porsche_round.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi/ic_porsche_round.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_porsche_round.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-anydpi-v26/ic_porsche_round.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v26_ic_launcher.xml.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_porsche.png.flat",
+        "source": "/srv/http/mobile/Porsche/Porsche/platforms/android/app/src/main/res/mipmap-hdpi/ic_porsche.png"
+    }
+]
